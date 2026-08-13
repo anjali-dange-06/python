@@ -116,3 +116,29 @@ while True:
 
     else:
         print("Invalid choice")
+
+ #1. What is File Handling? 
+    #2. Why Do We Need File Handling?
+    #3. Types of Files
+    #4. Opening a File
+    #5. open() Function
+    #6. File Modes
+    #7. r — Read Mode
+    #8. w — Write Mode
+    #9. a — Append Mode
+    #10. x — Create Mode
+    #11. The Most Important Mode Comparison
+    #12. read()
+    #13. readline()
+    #14. readlines()
+    #15. read() vs readline() vs readlines()
+    #16. write()
+    #17. writelines()
+    #18. write() vs writelines()
+    #19. Closing a File
+    #20. with open()
+    #21. File Pointer
+    #22. tell()
+    #23. seek()
+    #24. Basic Exceptions
+    #25. Important File Exceptions
