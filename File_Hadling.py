@@ -117,7 +117,7 @@ while True:
     else:
         print("Invalid choice")
 
- #1. What is File Handling? 
+    #1. What is File Handling? 
     #2. Why Do We Need File Handling?
     #3. Types of Files
     #4. Opening a File
